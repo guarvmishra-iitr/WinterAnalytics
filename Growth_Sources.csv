@@ -1,0 +1,25 @@
+Country,2005,2015,diff
+Nepal,51.33,62.81,11.48
+Moldova,68.81,77.55,8.74
+STP,54.77,63.41,8.64
+Mauritania,46.24,54.85,8.61
+Namibia,56.04,63.69,7.65
+Kazakhstan,62.58,70.16,7.58
+El Salvador ,58.83,66.35,7.52
+Vietnam,63.35,70.53,7.18
+Ecuador,62.29,69.32,7.03
+Kenya,52.73,59.35,6.62
+Bolivia,58.3,64.91,6.61
+Peru,62.56,69.09,6.53
+Rwanda,49.3,55.76,6.46
+Bhutan,60.6,67.06,6.46
+China,61.11,67.56,6.45
+Cambodia,52.38,58.83,6.45
+Morocco,61.86,68,6.14
+Ethiopia,44.51,50.23,5.72
+India,53.12,58.45,5.33
+Bangladesh,54.75,59.47,4.72
+,,,
+,,,
+,,,
+sources:,https://dashboards.sdgindex.org/explorer?metric=overall,,
