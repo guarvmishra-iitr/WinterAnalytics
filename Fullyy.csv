@@ -1456,10 +1456,10 @@ Vietnam,VNM,Access to electricity (% of population),EG.ELC.ACCS.ZS,96.09999847,9
 Vietnam,VNM,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,94.78694916,94.8011322,90.76005554,91.73643494,94.61694336,96.35902405,98.54904175,97.00138092,97.87874603,98.85342407,99.73003387
 Vietnam,VNM,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.59999847,99.09999847,99.33853912,99.4447403,99.59999847,99.87999725,100,99.80000305,99.96396637,99.90000153,100
 Vietnam,VNM,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,82.1,83.8,,,,,91.9,,,93.8,94.7
-Vietnam,VNM,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,7.547247727,6.977954812,7.129504484,5.661771208,5.397897543,6.423238217,6.413177689,5.50454562,5.553500245,6.422246656,6.987166724
-Vietnam,VNM,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,2.34,2.66,,2.9,3.1,2.91,,2.5,3.18,2.6,2.9
+Vietnam,VNM,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,6.547247727,6.977954812,7.129504484,5.661771208,5.397897543,6.423238217,6.413177689,5.50454562,5.553500245,6.422246656,6.987166724
+Vietnam,VNM,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,2.04,2.66,,2.9,3.1,2.91,,2.5,3.18,2.6,2.9
 Vietnam,VNM,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,266,260,253,246,239,231,225,218,212,205,199
-Vietnam,VNM,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,81.16,80.99,80.8,80.67,80.6,80.83,81.02,81.28,82.26,82.49,82.42
+Vietnam,VNM,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,78.16,80.99,80.8,80.67,80.6,80.83,81.02,81.28,82.26,82.49,82.42
 Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.271,73.319,73.436,73.411,73.498,73.513,73.692,73.704,73.775,73.855,73.876
 Vietnam,VNM,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,24.9,24.4,23.9,23.5,23.2,22.9,22.7,22.4,22.2,22,21.8
 Vietnam,VNM,People practicing open defecation (% of population),SH.STA.ODFC.ZS,12.85427463,11.9065894,10.96871069,10.0409732,9.123416033,8.215439691,7.318509804,6.432776348,5.558686875,4.696202282,3.845595653
