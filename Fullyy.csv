@@ -194,9 +194,9 @@ Brunei Darussalam,BRN,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.IN
 Brunei Darussalam,BRN,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,70.1,69.98,69.69,69.55,69.56,69.66,69.44,69.27,69.18,69.19,69.26,69.32,69.31,69.27,69.21,69.18
 Brunei Darussalam,BRN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.08,74.276,74.426,74.561,74.65,74.731,74.783,74.818,74.84,74.846,74.849,74.858,74.827,74.799,74.779,74.75
 Brunei Darussalam,BRN,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,10.3,10.1,9.8,9.7,9.6,9.5,9.5,9.5,9.5,9.6,9.7,9.8,10,10.2,10.4,10.6
-Brunei Darussalam,BRN,People practicing open defecation (% of population),SH.STA.ODFC.ZS,2.6,,,,,3,,2.6,2.6,2.6,2.6,2.6,2.6,2.6,2.6,2.6
+Brunei Darussalam,BRN,People practicing open defecation (% of population),SH.STA.ODFC.ZS,,,,,,3,,2.6,2.6,2.6,2.6,2.6,2.6,2.6,2.6,2.6
 Brunei Darussalam,BRN,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,99.65,99.65,99.65,99.65,99.65,99.65,99.65,99.65,99.65,99.65,99.65,99.65,99.65,99.65,99.65,99.65
-Brunei Darussalam,BRN,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,73,,,,,80,,,,,,,,,,78
+Brunei Darussalam,BRN,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,,,,,,80,,,,,,,,,,78
 Brunei Darussalam,BRN,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,1.0084,,1.1534,,1.2883,1.0682,1.0775,1.048,1.4866,1.1592,1.4488,1.5443,1.4937,1.6222,1.5105,1.7812
 Brunei Darussalam,BRN,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,6.884513524,,,,,7.24439177,,,,,7.417004403,7.366187122,7.570822949,6.709489683,6.180830115,6.484179774
 Brunei Darussalam,BRN,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0,0,0,0,0,0,0,0,0,0,0,0.02,0.01,0.01,0.01,0.01
@@ -220,7 +220,7 @@ Canada,CAN,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,6.2,6.2
 Canada,CAN,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Canada,CAN,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,99.50653212,99.50653212,99.50653212,99.50653212,99.50653212,99.48998183,99.47343153,99.45688123,99.44033093,99.42378064,99.40723034,99.39068004,99.37412975,99.35757945,99.34102915,99.32447885
 Canada,CAN,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,98.16674099,98.17581078,98.17794617,98.1801028,98.18224134,98.24079534,98.29946776,98.35997369,98.41990954,98.47926264,98.53806358,98.59599042,98.65168006,98.70725106,98.76270793,98.81806216
-Canada,CAN,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,1.82432,1.8871,1.8969,,1.8971,2,1.9086,,1.959,,2.0384,,2.3962,2.4509,2.4961,2.5388
+Canada,CAN,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,,1.8871,1.8969,,1.8971,2,1.9086,,1.959,,2.0384,,2.3962,2.4509,2.4961,2.5388
 Canada,CAN,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,8.280983564,,,,,8.495469137,,,,,8.384457262,8.62446106,8.107410495,7.791636125,7.428419864,7.151582145
 Canada,CAN,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,22.04,21.53,21.77,21.18,21.58,21.99,21.92,21.84,21.91,22.5,21.88,21.84,22.17,22.44,22.49,22.69
 Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,100.7887726,,,,98.47679901,97.36457062,98.88063049,98.96647644,98.01331329,99.00879669,98.64160156,98.1893692,99.51828003,100.3407135,101.5366592,102.4850769
@@ -235,7 +235,7 @@ Chad,TCD,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.Z
 Chad,TCD,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,10.01809311,11.17584896,12.33227825,13.49432564,16.39999962,15.86305904,17.08152962,18.32076836,19.5750885,20.83880234,18.29999924,13.55000019,24.62944221,25.87513351,27.10937881,32.40000153
 Chad,TCD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,13.7,,,,14.5,19,,,,,16.6,,,,,24.3
 Chad,TCD,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-0.879681025,11.65813465,8.491209819,14.72166701,33.62937185,17.33253374,0.648262014,3.271499579,3.052691532,4.217695552,13.55010086,0.082869798,8.882576072,5.700001363,6.899985045,2.767675685
-Chad,TCD,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,0.3,,,,,0.4,,,,,,,,,,1
+Chad,TCD,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,,,,,,0.4,,,,,,,,,,1
 Chad,TCD,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,151,152,152,152,151,151,150,149,149,148,147,147,146,146,145,144
 Chad,TCD,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,72.56,72.54,72.52,72.44,72.2,72.04,72.06,72.02,71.95,71.85,71.66,71.62,71.49,71.36,71.21,71.07
 Chad,TCD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,47.443,47.85,47.946,48.206,48.232,48.312,48.286,48.751,49.024,49.196,49.584,50.009,50.54,50.781,51.202,51.589
@@ -266,7 +266,7 @@ Chile,CHL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,10.9,10.
 Chile,CHL,People practicing open defecation (% of population),SH.STA.ODFC.ZS,2.29966477,2.174354925,2.049619899,1.927071596,1.804515209,1.681986393,1.559449413,1.436927913,1.314398584,1.191884629,1.069385967,0.946879429,0.824388124,0.701900527,0.579416561,0.183789356
 Chile,CHL,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,99.10075266,99.15132629,99.20189991,99.25247353,99.30304715,99.35362077,99.40419439,99.45476801,99.50534163,99.55591525,99.60648888,99.6570625,99.70763612,99.75820974,99.80878336,99.85935698
 Chile,CHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,92.09302425,92.59391052,93.07063436,93.47617698,93.88457656,94.29474878,94.70764542,95.12258641,95.54008597,95.95954891,96.380973,96.80474805,97.23040346,97.65809925,98.08776264,98.38247341
-Chile,CHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,0.87543,,0.8921,0.9466,0.9842,0.9804,1.0404,1.0365,1.0389,1.0294,2.8665,3.1709,3.4942,3.7612,4.0556,4.294
+Chile,CHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,,,0.8921,0.9466,0.9842,0.9804,1.0404,1.0365,1.0389,1.0294,2.8665,3.1709,3.4942,3.7612,4.0556,4.294
 Chile,CHL,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,26.16859477,,,,,25.52731698,,,,,25.89229169,27.24586707,25.0471553,23.9366936,22.86825181,22.56979255
 Chile,CHL,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,31.36,32.15,33.07,31.62,31.44,32.26,32.91,30.46,30.83,31.53,27.04,28.79,30.31,30.23,26.95,25.07
 Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,103.0135117,,100.8430481,99.72118378,104.1549988,104.5610809,105.4123535,106.7814789,107.5443497,106.5049591,103.7504807,103.4072495,103.2480698,101.4587402,100.9414597,100.6848373
@@ -281,7 +281,7 @@ Colombia,COL,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.
 Colombia,COL,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.40000153,99.91000366,99.1968689,99.1884613,99.19262695,99.30000305,99.26432037,99.33310699,99.71327972,99.60704803,99.77147675,99.78850555,99.72610474,99.82022858,99.83836365,99.80971527
 Colombia,COL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,88.3,93.1,94.5,95,95.6,92.6,97.1,97.8,98.1,98.6,95.6,99.2,98.7,98.7,98.9,95.9
 Colombia,COL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.924861483,1.677898308,2.503980466,3.918271904,5.333022067,4.828761108,6.716868698,6.738194691,3.283446186,1.139648645,4.494658971,6.947891982,3.912635767,5.13399352,4.499030001,2.955901375
-Colombia,COL,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,1.01,,,1.100000024,1.2,1.4,1,1,,,1.48,1.45,1.48,1.54,1.59,1.61
+Colombia,COL,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,,,,1.100000024,1.2,1.4,1,1,,,1.48,1.45,1.48,1.54,1.59,1.61
 Colombia,COL,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,37,36,35,35,33,30,32,31,32,32,32,33,33,32,31,31
 Colombia,COL,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,71.12,71.28,71.37,72.02,70.62,69.95,69.07,68.17,68.67,71.37,72.24,73.01,74.05,73.75,73.92,74.43
 Colombia,COL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.32,71.502,71.939,72.361,72.695,73.081,73.468,73.837,74.295,74.742,75.033,75.32,75.597,75.827,76.043,76.257
@@ -317,7 +317,7 @@ Costa Rica,CRI,"PM2.5 air pollution, mean annual exposure (micrograms per cubic 
 Costa Rica,CRI,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.95,32.11,32.54,33.3,39.16,41.73,42.4,41.19,40.7,40.72,40.39,38.02,38.06,37.8,37.62,38.33
 Costa Rica,CRI,"School enrollment, primary (% gross)",SE.PRM.ENRR,109.1044235,109.8127213,109.2016068,,113.8143311,111.8618469,114.1232605,113.6890335,115.3518066,116.9517517,116.8993683,115.8881912,114.669548,112.3201904,111.7728577,111.2979507
 Costa Rica,CRI,"School enrollment, secondary (% gross)",SE.SEC.ENRR,62.05680084,66.85674286,68.09944153,,79.50946045,81.59253693,88.41921997,89.83688354,91.26712799,98.09201813,101.0797424,103.8047028,107.4916992,114.3926926,120.1272202,122.7865829
-Costa Rica,CRI,"School enrollment, tertiary (% gross)",SE.TER.ENRR,27.3452,,,,26.65769958,50,,,,,,45.81893921,48.1085701,49.0067215,52.23117065,53.05263138
+Costa Rica,CRI,"School enrollment, tertiary (% gross)",SE.TER.ENRR,,,,,26.65769958,50,,,,,,45.81893921,48.1085701,49.0067215,52.23117065,53.05263138
 Costa Rica,CRI,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.636000156,7.387000084,7.748000145,7.993999958,8.284000397,9.31000042,8.350000381,6.749000072,5.868000031,9.576000214,9.123000145,12.72999954,11.60499954,10.40400028,11.24199963,11.14700031
 Costa Rica,CRI,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.079999924,5.920000076,6.329999924,6.559999943,6.389999866,6.570000172,5.739999771,4.489999771,4.78000021,7.710000038,7.170000076,10.14000034,9.779999733,8.770000458,9.06000042,9
 Costa Rica,CRI,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.052,60.41,61.753,63.08,64.388,65.672,66.935,68.174,69.39,70.575,71.736,72.868,73.946,74.97,75.941,76.862
@@ -350,14 +350,14 @@ Cuba,CUB,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.Z
 Cuba,CUB,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,99.77854919,99.72693634,99.68093872,99.64750671,99.63358307,99.64401245,99.67520142,99.72148132,99.77714539,99.83652496,99.8939209,99.93746185,99.97227478,99.99180603,99.9988327
 Cuba,CUB,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.4,99.9
 Cuba,CUB,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.914760174,3.185029904,1.424821261,3.792740223,5.77053807,11.20165642,12.06586311,7.262136966,4.116828042,1.451305431,2.390352297,2.802300836,3.014900289,2.747602563,1.047576632,4.438141959
-Cuba,CUB,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.89,,,4.900000095,,4.9,4.9,4.9,6,5.9,5.9,5.08,5.04,5.05,5.16,5.24
+Cuba,CUB,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,,,,4.900000095,,4.9,4.9,4.9,6,5.9,5.9,5.08,5.04,5.05,5.16,5.24
 Cuba,CUB,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,12,9.5,9.2,8.6,8,7.9,7.8,7.8,8.4,7.3,8.5,8.2,7.5,7.7,7.4,7.1
 Cuba,CUB,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.22,58.29,58.4,58.57,58.78,59.73,60.58,61.89,62.63,64.02,63.8,63.87,63.9,63.89,63.88,63.95
 Cuba,CUB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.183,76.421,76.612,76.773,76.912,77.047,77.179,77.307,77.429,77.548,77.661,77.76,77.833,77.87,77.853,77.772
 Cuba,CUB,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.8,8.5,8.2,7.9,7.6,7.4,7.2,6.9,6.7,6.5,6.4,6.2,6.1,5.9,5.8,5.7
 Cuba,CUB,People practicing open defecation (% of population),SH.STA.ODFC.ZS,1.706012379,1.625239125,1.545246914,1.468096194,1.393472919,1.319167561,1.245148859,1.171416465,1.097970726,1.024833581,0.951979948,0.879409678,0.807122958,0.735853932,0.664899778,0.594037483
 Cuba,CUB,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,96.78610282,96.81518604,96.84426925,96.87335247,96.90243569,96.9568928,97.01136514,97.0658527,97.1203555,97.17487351,97.22940676,97.28395523,97.33851892,97.39309785,97.447692,97.50230137
-Cuba,CUB,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,64,,,,,68,,,,,,,,,,72
+Cuba,CUB,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,,,,,,68,,,,,,,,,,72
 Cuba,CUB,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,5.9316,5.9406,5.9894,6.0572,6.1965,6.2686,6.3483,6.4363,6.6345,6.6698,6.8152,6.9969,7.2901,7.4183,7.5673,7.769
 Cuba,CUB,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,24.1373679,,,,,24.00991936,,,,,23.93329773,24.78731963,23.23978714,22.85074328,21.29623433,20.86409957
 Cuba,CUB,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,34.43,34.05,34.8,33.56,33.77,26.31,21.96,18.59,18.73,18.97,15.61,19.2,19.38,18.24,23.16,21.15
@@ -442,7 +442,7 @@ Ecuador,ECU,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.R
 Ecuador,ECU,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.18326569,99.16448212,99.14437103,99.29113007,99.12794495,99.66875458,99.52588654,99.63354492,99.58668518,98.98438263,99.71504974,99.78308105,99.62886047,99.54737091,99.83164215,99.86940765
 Ecuador,ECU,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,70.93118667,71.3854837,73.7010534,75.10152517,76.41589546,78.54901573,80.55069977,82.00180292,83.95904554,85.64073514,87.43770842,89.67107929,91.68642725,93.31784454,94.73425268,94.23076244
 Ecuador,ECU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.091801564,4.0156299,4.096776659,2.722877337,8.211020917,5.291308267,4.403526434,2.190063972,6.3571306,0.566491592,3.525298669,7.868140919,5.641962067,4.946511267,3.788868549,0.098872608
-Ecuador,ECU,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,1.51,,1.5,1.7,,1.3,,1.5,1.5,1.6,1.59,1.62,1.5,1.51,1.55,1.57
+Ecuador,ECU,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,,,1.5,1.7,,1.3,,1.5,1.5,1.6,1.59,1.62,1.5,1.51,1.55,1.57
 Ecuador,ECU,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,68,58,55,64,58,40,41,43,42,40,40,42,44,42,40,39
 Ecuador,ECU,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,69.54,69.28,68.99,68.68,71.05,70.45,71.81,70.42,70.66,68.8,67.83,66.99,67.65,67.08,66.85,69.21
 Ecuador,ECU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.839,73.24,73.613,73.975,74.279,74.514,74.689,74.844,74.983,75.184,75.43,75.743,76.062,76.369,76.622,76.789
@@ -455,7 +455,7 @@ Ecuador,ECU,"PM2.5 air pollution, mean annual exposure (micrograms per cubic met
 Ecuador,ECU,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.43,17.05,17.1,16.55,16.73,16.16,14.19,15.88,15.32,12.87,11.79,13.15,13.2,11.85,12.18,13.07
 Ecuador,ECU,"School enrollment, primary (% gross)",SE.PRM.ENRR,111.4111023,112.1068192,112.599678,111.7221222,110.6475296,109.874321,109.210762,110.0121078,107.6865463,112.23349,113.0802536,114.1176682,112.2776184,111.3694992,112.8784866,107.6838379
 Ecuador,ECU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,57.70922852,58.03422165,59.09057999,58.69921875,59.36859131,62.00888062,64.27047729,65.84909058,,88.64425659,92.31842804,96.46614075,99.54315186,102.1120605,104.8615036,104.0310593
-Ecuador,ECU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,37.452,,,,,40,,,38.77502823,,,,39.81666946,40.32244873,,44.89223099
+Ecuador,ECU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,,,,,,40,,,38.77502823,,,,39.81666946,40.32244873,,44.89223099
 Ecuador,ECU,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.382999897,5.236000061,5.643000126,6.157000065,5.711999893,4.710000038,4.369999886,3.917000055,5.006000042,5.890999794,4.97300005,4.289999962,3.819999933,3.661999941,4.142000198,4.520999908
 Ecuador,ECU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.800000191,4.25,4.897999763,5.659999847,5,3.779999971,3.549999952,3.140000105,3.920000076,4.610000134,4.090000153,3.460000038,3.230000019,3.079999924,3.480000019,3.619999886
 Ecuador,ECU,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.299,60.799,61.118,61.316,61.514,61.711,61.907,62.104,62.3,62.495,62.69,62.851,62.988,63.125,63.261,63.398
@@ -488,7 +488,7 @@ Ethiopia,ETH,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.
 Ethiopia,ETH,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,76.19999695,79.2469635,79.89573669,80.55013275,81.21709442,85.69999695,82.61438751,83.34597015,84.09263611,84.84870148,85.60847473,85.19999695,87.11638641,87.85442352,91.98252106,85
 Ethiopia,ETH,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,5.6,,,,6.4,5.7,,,,,,10.8,,23.1,15.5,6.7
 Ethiopia,ETH,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,6.07321748,8.301306321,1.514725706,-2.161359722,13.57260314,11.81876595,10.83472707,11.456167,10.78852169,8.802553198,12.55053835,11.17829623,8.647811633,10.58227005,10.25749296,10.39246302
-Ethiopia,ETH,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,0.2,,,,0.2,0.2,0.2,,0.2,,,6.3,,,,0.3
+Ethiopia,ETH,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,,,,,0.2,0.2,0.2,,0.2,,,6.3,,,,0.3
 Ethiopia,ETH,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,421,409,393,376,358,341,325,310,296,282,268,253,239,224,207,192
 Ethiopia,ETH,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,81.62,82.06,82.49,82.92,83.33,83.71,83.6,83.48,83.35,83.2,83.06,82.93,82.81,82.7,82.41,82.12
 Ethiopia,ETH,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,50.538,51.043,51.517,52.533,53.235,54.008,55.149,56.426,57.592,58.804,59.73,60.721,61.543,62.373,62.905,63.649
@@ -626,7 +626,7 @@ Iceland,ISL,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.R
 Iceland,ISL,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Iceland,ISL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,99.3,99.5,99.4,99.4,99.4,99,98.9,98.9,98.7,98.8,98.2,97.9,97.8,98.1,97.8,98.2
 Iceland,ISL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.98504277,4.013497555,0.559519082,2.142688379,7.802399508,6.124438965,6.316993086,8.454860096,2.209496419,-7.66380956,-2.832774915,1.845779156,1.063636607,4.55246032,1.687215018,4.436663719
-Iceland,ISL,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,2.8,,7.5,,,2.8,5.3391,4.12,3.91,3.7,3.58,3.29,3.25,3.22,3.16,3.12
+Iceland,ISL,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,,,7.5,,,2.8,5.3391,4.12,3.91,3.7,3.58,3.29,3.25,3.22,3.16,3.12
 Iceland,ISL,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,5.3,4.8,3.2,2,4.3,3.9,4.9,4.4,2.2,3.2,7.9,2.9,3.6,3.9,2.8,2.4
 Iceland,ISL,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,88.37,88.3,86.88,86.69,86.29,85.68,86.67,86.7,85.76,84.1,84.36,84.16,84.52,85.56,87.02,88.09
 Iceland,ISL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.65365854,80.6902439,80.50243902,80.96341463,80.99756098,81.50243902,81.15853659,81.45365854,81.6097561,81.75121951,81.89756098,82.35853659,82.91707317,82.06097561,82.86097561,82.46829268
@@ -693,7 +693,7 @@ Israel,ISR,Access to clean fuels and technologies for cooking (% of population),
 Israel,ISR,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Israel,ISR,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Israel,ISR,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
-Israel,ISR,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,20,,,,,21,,,,,,,,,,23
+Israel,ISR,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,,,,,,21,,,,,,,,,,23
 Israel,ISR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,8.671655277,0.334070643,-0.114220928,1.393912964,4.784467426,4.134076619,5.582667959,6.033213571,3.251163361,0.883120394,5.668515118,5.561139076,2.587653844,4.415501587,3.919126893,2.485826289
 Israel,ISR,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,3.85,3.86,3.81,3.86,3.8,3.73,3.4,3.35,3.3,3.19,3.16,3.14,3.1,3.09,3.08,3.03
 Israel,ISR,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,10,9.4,8.4,8.4,8,6.4,5.7,6.6,5.2,5.5,5.3,6.4,7.7,4.6,5.3,4
@@ -724,7 +724,7 @@ Italy,ITA,"Labor force participation rate, total (% of total population ages 15-
 Italy,ITA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.77804878,80.12682927,80.22926829,79.98292683,80.7804878,80.78292683,81.28292683,81.43414634,81.48536585,81.63658537,82.03658537,82.18780488,82.23902439,82.6902439,83.0902439,82.54390244
 Italy,ITA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,5.6,5.3,5,4.8,4.6,4.5,4.3,4.2,4.1,4.1,4,3.9,3.8,3.7,3.6,3.5
 Italy,ITA,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Italy,ITA,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,77.5,,,,,78,,,,,,,,,,79
+Italy,ITA,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,,,,,,78,,,,,,,,,,79
 Italy,ITA,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.76837962,94.98710866,95.20593802,95.42486769,95.64389767,95.86302797,96.08225858,96.08733016,96.05755566,96.02775304,95.9979223,95.96806345,95.93817649,95.9082614,95.8783182,95.82368779
 Italy,ITA,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,6.9172,7.0257,7.1168,7.2299,7.3618,7.4034,7.397,7.5503,7.5612,7.5796,7.632,7.7692,7.7028,7.8089,7.8097,7.6959
 Italy,ITA,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.77733481,,,,,19.60087766,,,,,19.02523065,19.99426671,18.10524741,17.75772244,17.76927084,17.89144517
@@ -747,8 +747,8 @@ Italy,ITA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.222,67.2
 "Korea, Rep.",KOR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.9097561,76.41219512,76.76585366,77.21463415,77.66585366,78.16829268,78.66829268,79.1195122,79.51707317,79.96829268,80.11707317,80.56829268,80.8195122,81.27073171,81.72195122,82.02439024
 "Korea, Rep.",KOR,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.5,7.1,6.8,6.4,6,5.6,5.2,4.8,4.5,4.3,4.1,4,3.8,3.7,3.6,3.5
 "Korea, Rep.",KOR,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"Korea, Rep.",KOR,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,88,,,,,87,,,,,,,,,,89
-"Korea, Rep.",KOR,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,97.59287638,,97.00271038,97.00271038,97.00271038,97.00271038,97.00271038,97.18684337,97.3711509,97.55563295,97.74028953,97.92512065,98.11012629,98.29530646,98.48066115,98.6215861
+"Korea, Rep.",KOR,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,,,,,,87,,,,,,,,,,89
+"Korea, Rep.",KOR,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,,,97.00271038,97.00271038,97.00271038,97.00271038,97.00271038,97.18684337,97.3711509,97.55563295,97.74028953,97.92512065,98.11012629,98.29530646,98.48066115,98.6215861
 "Korea, Rep.",KOR,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,1.2853,1.3775,1.4776,1.555,1.5515,1.6086,1.6707,1.7225,1.8407,1.9185,1.9839,2.0361,2.0798,2.1632,2.207,2.2494
 "Korea, Rep.",KOR,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,29.76546929,,,,,30.40690403,,,,,29.80201,29.68119454,27.91595259,29.46191729,27.21311037,28.2142437
 "Korea, Rep.",KOR,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.7,0.69,0.7,0.85,0.77,0.87,0.95,1.03,1.06,1.21,1.32,1.35,1.61,1.92,2.87,2.74
@@ -762,7 +762,7 @@ Kuwait,KWT,Access to clean fuels and technologies for cooking (% of population),
 Kuwait,KWT,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Kuwait,KWT,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Kuwait,KWT,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
-Kuwait,KWT,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,98.86153846,,100,,98.3,98.6,98.7,98.7,98.7,98.7,98.6,98.8,98.8,98.7,98.7,99.9
+Kuwait,KWT,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,,,100,,98.3,98.6,98.7,98.7,98.7,98.7,98.6,98.8,98.8,98.7,98.7,99.9
 Kuwait,KWT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.694581871,0.213332577,3.014283152,17.32602042,10.24029806,10.60904498,7.514773,5.991575511,2.479756943,-7.076056431,-2.37026412,9.628406975,6.6258183,1.149300437,0.500876982,0.593019617
 Kuwait,KWT,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,2.4,2.3,2.2,2.2,2.1,1.9,1.9,1.9,1.8,1.8,2,1.85,2.2,2.2,2.04,2.04
 Kuwait,KWT,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,30,29,33,31,30,27,31,30,38,38,37,25,25,22,22,22
@@ -770,14 +770,14 @@ Kuwait,KWT,"Labor force participation rate, total (% of total population ages 15
 Kuwait,KWT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.722,76.891,76.982,76.985,76.792,76.903,76.887,77.017,77.145,77.442,77.982,78.464,78.812,79.164,79.445,79.562
 Kuwait,KWT,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,12.4,12.2,12,11.8,11.6,11.4,11.2,11.1,10.9,10.7,10.4,10,9.6,9.2,8.9,8.8
 Kuwait,KWT,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Kuwait,KWT,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,73.5,,,,,74,,,,,,,,,,75
+Kuwait,KWT,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,,,,,,74,,,,,,,,,,75
 Kuwait,KWT,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
-Kuwait,KWT,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,1.9,,,1.9,1.5,1.8,1.4543,1.8814,1.8806,1.8929,2.4296,2.456,2.4662,2.5332,2.6522,2.6463
+Kuwait,KWT,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,,,,1.9,1.5,1.8,1.4543,1.8814,1.8806,1.8929,2.4296,2.456,2.4662,2.5332,2.6522,2.6463
 Kuwait,KWT,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,61.48199413,,,,,59.67398738,,,,,62.74398094,62.82540677,64.07091103,62.61130895,55.62390422,65.40607715
 Kuwait,KWT,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.01
 Kuwait,KWT,"School enrollment, primary (% gross)",SE.PRM.ENRR,98.63220215,96.08379364,99.13406372,101.220108,102.4925232,104.8803406,102.3398666,104.6261292,101.6098175,101.5350876,102.2396393,105.6248093,104.9829025,103.9619522,103.7813034,102.5897369
 Kuwait,KWT,"School enrollment, secondary (% gross)",SE.SEC.ENRR,91.08805847,91.44888306,,98.20832825,102.3640976,109.6014175,104.9908524,102.9927216,99.24891663,97.71626282,97.87177277,97.0526123,96.44032288,95.06651306,93.89048767,97.82772064
-Kuwait,KWT,"School enrollment, tertiary (% gross)",SE.TER.ENRR,21.1324,21.25661087,20.5089798,19.61356926,19.20824051,45.3456,,,,,,,,,51.02970123,55.14833069
+Kuwait,KWT,"School enrollment, tertiary (% gross)",SE.TER.ENRR,,21.25661087,20.5089798,19.61356926,19.20824051,45.3456,,,,,,,,,51.02970123,55.14833069
 Kuwait,KWT,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,1.707000017,1.700999975,2.342999935,2.805000067,3.657000065,3.21600008,2.779000044,2.97300005,3.596999884,3.299999952,2.84100008,3.460999966,4.205999851,5.031000137,5.879000187,4.697999954
 Kuwait,KWT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,0.800000012,0.800000012,1.100000024,1.299999952,1.700000048,1.495000005,1.299999952,1.5,1.75,1.639999986,1.820000052,2.038000107,2.319999933,2.622999907,2.900000095,2.200000048
 Kuwait,KWT,Urban population (% of total population),SP.URB.TOTL.IN.ZS,99,99.908,100,100,100,100,100,100,100,100,100,100,100,100,100,100
@@ -810,7 +810,7 @@ Lao PDR,LAO,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.R
 Lao PDR,LAO,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.06880188,96.12661743,96.1831131,97,96.31989288,92.19999695,94.13188171,97.41999817,99,96.9900589,97.15753937,97.32304382,97.43094635,97.69154358,97.91233826,97.80000305
 Lao PDR,LAO,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,16.7,19.4,,,,14.6,18.9,,,,37,,40.1,,,15
 Lao PDR,LAO,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.798782326,5.751412882,5.918743682,6.067002304,6.35769548,7.107568369,8.619266209,7.596828801,7.824902763,7.501774913,8.526905517,8.038652681,8.026098434,8.026300226,7.611963441,7.270065843
-Lao PDR,LAO,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,0.6,,0.9,,,1.2,,,,,0.7,,1.5,,,1.5
+Lao PDR,LAO,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,,,0.9,,,1.2,,,,,0.7,,1.5,,,1.5
 Lao PDR,LAO,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,330,317,305,293,282,270,260,249,240,230,221,213,204,197,189,182
 Lao PDR,LAO,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,83.39,83.18,82.93,82.65,82.34,82.03,81.81,81.6,81.4,81.24,81.13,81.14,81.19,81.24,81.3,81.35
 Lao PDR,LAO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,58.378,59.07,59.534,60.031,60.293,60.98,61.493,62.084,62.603,63.273,63.973,64.736,65.355,65.718,66.361,66.67
@@ -877,7 +877,7 @@ Luxembourg,LUX,Access to clean fuels and technologies for cooking (% of populati
 Luxembourg,LUX,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Luxembourg,LUX,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Luxembourg,LUX,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
-Luxembourg,LUX,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,99,,99.9,99.9,,89,,,,99.9,,,,,,100
+Luxembourg,LUX,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,,,99.9,99.9,,89,,,,99.9,,,,,,91
 Luxembourg,LUX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,6.938130249,3.074354999,3.2254169,2.619378579,4.231891307,2.482874748,6.016715044,8.098667607,-0.300176194,-3.238954027,3.760413593,1.044298695,1.64990203,3.171790499,2.623086016,2.269784484
 Luxembourg,LUX,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.199999809,6.099999905,6,6,6.39,5.79,5.65,5.67,5.57,5.47,5.37,5.28,5.15,5.17,5.05,4.93
 Luxembourg,LUX,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,12,8.1,8,14,7.8,9.2,8,9.3,6.6,6.2,6.6,5.5,9.8,8,5,6.1
@@ -900,7 +900,7 @@ Malta,MLT,Access to clean fuels and technologies for cooking (% of population),E
 Malta,MLT,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Malta,MLT,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Malta,MLT,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
-Malta,MLT,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,99.1,99.9,99.5,99.5,99.9,99.7,98.8,99.8,99.9,99.8,99.8,99.8,99.5,99.9,99.9,99.8
+Malta,MLT,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,,99.9,99.5,99.5,99.9,99.7,98.8,99.8,99.9,99.8,99.8,99.8,99.5,99.9,99.9,99.8
 Malta,MLT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,19.68179092,-1.174796479,2.565047048,4.074569852,0.139599084,3.383299657,2.510491947,4.775347325,3.825591401,-1.133105988,5.543569377,0.466127625,4.118660982,5.473057917,7.633119335,9.608131222
 Malta,MLT,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.48,7.57,7.48,7.43,7.46,7.45,7.57,7.85,7.39,4.83,4.52,4.38,4.71,4.78,4.59,4.59
 Malta,MLT,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,4.6,4.6,6.8,2,5.1,6.2,8.4,11,13,12,8,8.1,11,13,12,8.1
@@ -946,7 +946,7 @@ Netherlands,NLD,Access to clean fuels and technologies for cooking (% of populat
 Netherlands,NLD,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Netherlands,NLD,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Netherlands,NLD,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
-Netherlands,NLD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,100,,,100,,100,,,,,,,,,,100
+Netherlands,NLD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,,,,100,,100,,,,,,,,,,100
 Netherlands,NLD,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.195642498,2.326955087,0.217273595,0.155645898,1.984945714,2.050876108,3.460988954,3.772842521,2.170324851,-3.666883937,1.342739336,1.551189312,-1.030353991,-0.130175288,1.423395395,1.959169721
 Netherlands,NLD,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.92,4.75,4.69,4.58,4.56,4.5,4.34,4.31,4.27,4.2,4.05,3.84,3.75,3.61,,3.49
 Netherlands,NLD,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,9,10,9.7,9.3,9.3,8,7.1,6.5,6.7,7.8,7.1,6.7,6.3,5.7,5.5,5.7
@@ -971,7 +971,7 @@ New Zealand,NZL,"Access to electricity, rural (% of rural population)",EG.ELC.AC
 New Zealand,NZL,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 New Zealand,NZL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,97.3,96.6,99.2,98.2,94,96.6,96.8,96.7,96.7,96.7,96.8,96.7,96.8,96.7,96.7,96.3
 New Zealand,NZL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.905140655,3.464327387,4.674608962,4.549994884,4.028302741,3.320716818,2.881062303,3.028160489,-1.111523076,-0.135170176,1.523877571,2.251758633,2.245302935,2.695416618,3.815427603,3.744332198
-New Zealand,NZL,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,2.1,,6.2,,,2.5,,,,2.41,2.75,2.82,2.83,2.78,2.76,2.72
+New Zealand,NZL,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,,,6.2,,,2.5,,,,2.41,2.75,2.82,2.83,2.78,2.76,2.72
 New Zealand,NZL,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,10,11,9.6,12,10,9.2,9.5,7.5,7.9,8,8,8,7.6,7,7.6,7.3
 New Zealand,NZL,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,74.99,75.6,76.26,75.9,76.35,77.24,77.81,77.99,77.76,77.39,77.07,77.27,77.1,77.51,78.68,78.73
 New Zealand,NZL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.63658537,78.69268293,78.84634146,79.14634146,79.54878049,79.85121951,80.04878049,80.15121951,80.35121951,80.70243902,80.70243902,80.90487805,81.15609756,81.40731707,81.40487805,81.45682927
@@ -984,7 +984,7 @@ New Zealand,NZL,"PM2.5 air pollution, mean annual exposure (micrograms per cubic
 New Zealand,NZL,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.13,27.13,28.98,28.35,30.76,29.46,29.59,29.35,28.39,30.56,31.68,32.65,31.02,30.36,31.09,31.24
 New Zealand,NZL,"School enrollment, primary (% gross)",SE.PRM.ENRR,99.54071808,97.79586792,97.38498688,98.43256378,98.53341675,99.71794891,100.180191,100.6034775,100.9797516,101.0633163,101.110939,99.77765656,98.34792328,97.94400024,97.62129974,97.94277954
 New Zealand,NZL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,110.7622681,111.7271194,116.0867004,118.7744904,116.5867767,120.2476501,118.4310608,119.3534164,117.0983582,124.6602097,119.0647202,118.5048294,117.1061325,115.2617035,115.3846436,114.7460938
-New Zealand,NZL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,72.54,,,,,78,,,,,77.26278687,77.26278687,77.26278687,77.26278687,77.98130035,80.56337738
+New Zealand,NZL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,,,,,,78,,,,,143.9300079,132.0696411,127.8118744,77.26278687,77.98130035,80.56337738
 New Zealand,NZL,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.977000237,5.375999928,5.464000225,5.111000061,4.521999836,4.152999878,4.203000069,3.963999987,4.265999794,6.140999794,6.93200016,6.760000229,7.388999939,6.425000191,6.129000187,5.899000168
 New Zealand,NZL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.130000114,5.429999828,5.28000021,4.75,4.010000229,3.809999943,3.859999895,3.660000086,4.170000076,6.119999886,6.559999943,6.489999771,6.929999828,5.840000153,5.429999828,5.409999847
 New Zealand,NZL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,86.021,86.1,86.161,86.221,86.281,86.341,86.4,86.34,86.28,86.22,86.16,86.1,86.161,86.221,86.281,86.341
@@ -992,9 +992,9 @@ Nicaragua,NIC,Access to clean fuels and technologies for cooking (% of populatio
 Nicaragua,NIC,Access to electricity (% of population),EG.ELC.ACCS.ZS,72.78157043,72.22158051,73.85829163,74.38762665,74.91407776,73.82181549,75.96777344,76.50007629,77.03961182,77.91631317,78.1512146,78.72869873,79.63916016,80.82344055,81.85307312,83.24932861
 Nicaragua,NIC,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,47.20875931,47.8595047,48.6113205,49.29079056,49.95052338,46.39040756,51.14583206,51.69555664,52.24295425,51.67721176,53.39016724,53.89535904,55.18566132,57.31583786,59.27267838,61.93531418
 Nicaragua,NIC,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,93.54890442,91.88602448,94.11447144,94.40221405,94.70251465,95.43199158,95.36649323,95.73142242,96.11143494,97.93714905,96.89395142,97.3764267,97.85522461,98.19506836,98.40680695,98.75026703
-Nicaragua,NIC,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,88.1,89.7,72.6,74.1,76,78.6,79.3,73.7,85.3,,88,89.7,87,92.4,93.4,94
+Nicaragua,NIC,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,,89.7,72.6,74.1,76,78.6,79.3,73.7,85.3,,88,89.7,87,92.4,93.4,94
 Nicaragua,NIC,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.101590236,2.960843427,0.753938858,2.520732892,5.312170612,4.282398363,4.153199566,5.076701701,3.436373829,-3.292789619,4.409645499,6.317476383,6.495258014,4.927502861,4.78581617,4.792056766
-Nicaragua,NIC,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,0.8138492,,,0.899999976,0.9,0.9,1,0.9,0.9,,0.8,1.14,0.96,0.95,0.93,0.93
+Nicaragua,NIC,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,,,,0.899999976,0.9,0.9,1,0.9,0.9,,0.8,1.14,0.96,0.95,0.93,0.93
 Nicaragua,NIC,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,59,59,50,54,52,44,45,51,52,50,53,57,58,57,54,50
 Nicaragua,NIC,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,63.03,63.18,63.35,63.52,63.69,63.85,64.03,64.61,65.19,65.76,66.32,66.88,67.44,67.99,68.52,68.77
 Nicaragua,NIC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.234,67.215,67.18,67.217,67.423,67.936,68.725,69.559,70.586,71.433,72.009,72.416,72.615,72.704,72.812,72.983
@@ -1002,12 +1002,12 @@ Nicaragua,NIC,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,38.5
 Nicaragua,NIC,People practicing open defecation (% of population),SH.STA.ODFC.ZS,15.74699227,15.18056447,14.61685832,14.05561237,13.49682592,12.93960549,12.37543718,11.81472742,11.25705383,10.70282135,10.15182513,9.604063862,9.059536962,8.518245733,7.98033822,7.445650444
 Nicaragua,NIC,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,94.67860137,94.84986382,95.02115129,95.19246379,95.36380132,95.53516387,95.70655146,95.87796407,96.04940171,96.22086438,96.39235208,96.56386481,96.73540256,96.90696535,97.07855316,97.24275488
 Nicaragua,NIC,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,47.84901946,47.94999232,48.05105255,48.15258869,48.25460174,48.35869699,48.48102539,48.60357996,49.63554407,50.65626404,51.66618504,52.66535414,53.65381695,54.63161559,55.08079619,55.16754537
-Nicaragua,NIC,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,0.34523,,,0.3864,,0.4996,0.4924,0.5265,0.6486,0.7032,0.7278,0.8137,0.8605,0.8981,0.8946,0.9312
+Nicaragua,NIC,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,,,,0.3864,,0.4996,0.4924,0.5265,0.6486,0.7032,0.7278,0.8137,0.8605,0.8981,0.8946,0.9312
 Nicaragua,NIC,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,23.0534074,,,,,23.02943656,,,,,22.4922691,22.47952015,22.35271161,21.92907575,19.38772134,18.56913277
 Nicaragua,NIC,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,58.42,56.66,54.67,51.49,51.17,52.76,53.29,52.61,53.77,54.56,54.44,53.3,53.27,54.28,53.02,50
 Nicaragua,NIC,"School enrollment, primary (% gross)",SE.PRM.ENRR,103.8803482,107.4924088,114.5424728,115.5194702,118.1110611,119.4757538,123.8070068,123.147583,122.7713165,,120.6404266,120.9701843,118.2063065,115.0990524,114.033905,110.5707474
 Nicaragua,NIC,"School enrollment, secondary (% gross)",SE.SEC.ENRR,52.67501068,55.71474075,60.19301987,,65.11496735,68.19142151,69.01776886,72.67133331,71.76341248,,73.43241882,,,,,72
-Nicaragua,NIC,"School enrollment, tertiary (% gross)",SE.TER.ENRR,17.23,,17.42374039,,,17.345,,,,,16.07338905,16.72104073,17.59115982,17.64763069,18.70788956,19.06928062
+Nicaragua,NIC,"School enrollment, tertiary (% gross)",SE.TER.ENRR,,,17.42374039,,,17.345,,,,,16.07338905,16.72104073,17.59115982,17.64763069,18.70788956,19.06928062
 Nicaragua,NIC,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.734000206,7.789000034,7.870999813,7.857999802,8.055999756,5.797999859,4.954999924,5.046999931,6.988999844,9.145999908,8.782999992,7.272999763,5.815999985,5.473999977,5.616000175,5.446000099
 Nicaragua,NIC,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.354000092,7.449999809,7.578000069,7.599999905,6.409999847,5.369999886,5.309999943,4.889999866,6.199999809,8.159999847,7.829999924,6.495999813,5.210000038,5.28000021,4.519999981,4.699999809
 Nicaragua,NIC,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.185,55.335,55.484,55.633,55.782,55.935,56.132,56.328,56.525,56.721,56.917,57.113,57.309,57.505,57.7,57.895
@@ -1068,7 +1068,7 @@ Oman,OMN,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,16,14,14,1
 Oman,OMN,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,56.94,56.72,56.87,57.21,57.35,57.6,58.03,58.96,60.34,62.07,63.96,65.46,67.18,68.96,70.68,72.27
 Oman,OMN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.466,73.808,73.869,74.14,74.329,74.396,74.48,74.461,74.612,74.681,76.269,76.608,77.061,77.246,77.446,77.687
 Oman,OMN,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,16.5,15.4,14.5,13.8,13.2,12.8,12.5,12.2,12,11.8,11.7,11.6,11.4,11.3,11.2,11.2
-Oman,OMN,People practicing open defecation (% of population),SH.STA.ODFC.ZS,3.80483,3.816227018,3.818559546,3.820892856,3.783798036,3.716958519,3.230983231,2.760983363,2.3066749,1.867898629,1.444191124,1.017831033,0.611271603,0.190686599,0,0
+Oman,OMN,People practicing open defecation (% of population),SH.STA.ODFC.ZS,,3.816227018,3.818559546,3.820892856,3.783798036,3.716958519,3.230983231,2.760983363,2.3066749,1.867898629,1.444191124,1.017831033,0.611271603,0.190686599,0,0
 Oman,OMN,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,91.76200485,91.76200485,91.76200485,91.76200485,91.76200485,91.95429032,92.1465758,92.33886127,92.53114675,92.72343223,92.9157177,93.10800318,93.30028865,93.49257413,93.6848596,93.87714508
 Oman,OMN,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,83.89832717,83.89375087,83.8891719,83.88459617,83.95737875,84.32566626,84.69061541,85.05204784,85.40998427,85.76403082,86.11466113,86.56857454,87.09616561,87.60553387,88.09871744,88.57535727
 Oman,OMN,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,1.4365,,,,1.5829,1.6653,1.7743,1.8471,1.888,1.9341,1.9274,1.9464,2.0169,2.0381,2.1481,2.0889
@@ -1076,7 +1076,7 @@ Oman,OMN,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)
 Oman,OMN,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Oman,OMN,"School enrollment, primary (% gross)",SE.PRM.ENRR,92.48258972,93.01798248,92.71775818,91.91731262,,92.63619995,91.68849945,93.70793915,95.9779129,103.1522522,,102.5503922,104.6121063,109.1066437,109.6953888,108.3045731
 Oman,OMN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,78.23267365,82.05631256,84.2195816,85.82816315,,87.66512299,87.55825043,90.47001648,94.17327881,99.77667236,,99.5855484,100.0396729,99.51570129,,103.2984238
-Oman,OMN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,14.67343,,,14.79722023,16.33283043,18.49119949,20.5759201,20.61128998,19.88721085,22.95499992,23.34454918,27.00322914,,29.9365406,34.55519104,39.23263931
+Oman,OMN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,,,,14.79722023,16.33283043,18.49119949,20.5759201,20.61128998,19.88721085,22.95499992,23.34454918,27.00322914,,29.9365406,34.55519104,39.23263931
 Oman,OMN,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.888000011,7.895999908,7.97300005,7.981999874,7.923999786,7.928999901,7.921999931,7.986999989,7.967999935,8.592000008,9.291000366,9.93900013,10.48999977,11.31700039,12.15600014,12.78299999
 Oman,OMN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.093999863,4.125,4.204999924,4.230999947,4.184000015,4.181000233,4.153999805,4.178999901,4.139999866,4.051000118,3.990999937,3.86500001,3.678999901,3.61500001,3.542999983,3.39199996
 Oman,OMN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.569,71.549,71.529,71.509,71.827,72.4,72.967,73.527,74.08,74.624,75.161,76.183,77.564,78.882,80.145,81.35
@@ -1084,7 +1084,7 @@ Pakistan,PAK,Access to clean fuels and technologies for cooking (% of population
 Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,70.31060028,70.36153412,70.40487671,70.44299316,70.47821808,70.51290131,70.54946899,70.59054565,70.63886261,70.69711304,70.76802063,70.85427856,70.95861053,71.0827713,71.22473907,71.38154602
 Pakistan,PAK,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,58.78635025,58.61860275,58.43637466,58.24063492,58.03065872,57.80670929,57.56908417,57.32328033,57.07678604,56.8366127,56.60936737,56.40234756,56.22307587,56.07834244,55.96378708,55.87406921
 Pakistan,PAK,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,93.72737885,94.0102005,94.29168701,94.57880402,94.87847137,95.19765472,95.5411911,95.90549469,96.28487396,96.67365265,97.06613159,97.45663452,97.83947754,98.21022797,98.5695343,98.91930389
-Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,23,23,23,,,31,56,38.8,40,41,,43,51,52.1,,59
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,,23,23,,,31,56,38.8,40,41,,43,51,52.1,,59
 Pakistan,PAK,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.260088012,3.554418216,2.508337724,5.777033992,7.546860015,6.518778074,5.898984442,4.832817277,1.701405466,2.831658519,1.606688629,2.748405917,3.50703342,4.396456634,4.674707982,4.731147475
 Pakistan,PAK,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,0.67,0.66,0.69,0.68,0.68,0.7,,1,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
 Pakistan,PAK,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,275,275,275,276,276,276,276,276,276,276,276,276,276,275,270,270
@@ -1098,8 +1098,8 @@ Pakistan,PAK,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,0.6451,0.6593,,,0.74
 Pakistan,PAK,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,61.10602749,,,,,63.37843689,,,,,68.00519044,68.54493561,62.37664629,61.02216287,59.51836271,60.08589291
 Pakistan,PAK,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,51.05,51.54,51.39,50.09,47.93,47.96,47.04,44.85,46.63,46.43,47.4,46.76,47.2,48.13,47.22,45.88
 Pakistan,PAK,"School enrollment, primary (% gross)",SE.PRM.ENRR,70.88539124,70.79136658,70.89489746,72.72244263,77.11121368,81.27757263,77.92784882,83.10394287,83.24307251,83.89859772,84.59361267,80.85917664,80.37718964,79.65857697,84.30747223,85.08992004
-Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,22.01324,,,22.51145935,24.69107056,25.63673973,30.86035919,32.90158081,33.03702927,32.85655975,33.17972946,33.76794052,34.9048996,36.00167084,37.32049179,39.60364914
-Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2.349294,,,2.700680017,3.390019894,4.923419952,4.986420155,5.615320206,5.55546999,6.798860073,5.054243088,8.295140266,9.39550972,9.730730057,9.659850121,9.225899696
+Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,,,,22.51145935,24.69107056,25.63673973,30.86035919,32.90158081,33.03702927,32.85655975,33.17972946,33.76794052,34.9048996,36.00167084,37.32049179,39.60364914
+Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,,,,2.700680017,3.390019894,4.923419952,4.986420155,5.615320206,5.55546999,6.798860073,5.054243088,8.295140266,9.39550972,9.730730057,9.659850121,9.225899696
 Pakistan,PAK,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,0.382999986,0.367000014,0.349000007,0.352999985,0.349999994,0.333000004,0.319000006,0.252000004,0.523999989,0.363000006,0.634000003,0.672999978,2.025000095,3.421000004,2.017999887,6.157000065
 Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,0.578999996,0.564999998,0.547999978,0.589999974,0.612999976,0.592999995,0.579999983,0.400000006,0.419999987,0.540000022,0.649999976,0.800000012,1.847000003,2.950000048,1.830000043,3.569999933
 Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.982,33.18,33.38,33.58,33.781,33.982,34.184,34.387,34.59,34.793,34.997,35.202,35.408,35.613,35.819,36.026
@@ -1109,15 +1109,15 @@ Panama,PAN,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU
 Panama,PAN,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.19000244,97.12621307,97.1960144,97.27143097,97.35941315,97.46690369,97.59873962,97.7513504,97.91903687,98.09612274,98.69999695,98.530159,98.69075012,98.30000305,98.93354797,99.07162476
 Panama,PAN,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,90.5,92.1,94.2,92.5,91.3,91.1,91,91.5,91.8,88.6,92.7,93.5,94.3,91.4,93.9,96.3
 Panama,PAN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.715374155,0.574272791,2.229149417,4.205495945,7.522079658,7.191279402,8.652465611,11.98398539,9.855654852,1.242992318,5.827993494,11.31362591,9.778490071,6.903948051,5.066422355,5.733054296
-Panama,PAN,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,2.4,,2.5,,2.4,2.2,2.3,2.3,2.3,2.3,2.3,2.27,2.33,2.3,2.24,2.29
+Panama,PAN,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,,,2.5,,2.4,2.2,2.3,2.3,2.3,2.3,2.3,2.27,2.33,2.3,2.24,2.29
 Panama,PAN,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,49,70,63,64,66,62,61,58,58,54,53,55,51,47,47,52
 Panama,PAN,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,66.72,67.05,67.37,67.69,68.18,68.51,67.53,68.35,69.85,68.79,67.56,66.3,68.48,69.32,68.95,69.49
 Panama,PAN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.001,74.414,74.824,75.218,75.544,75.829,76.012,76.154,76.225,76.343,76.448,76.627,76.819,77.038,77.248,77.468
 Panama,PAN,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,26,25.4,24.8,24.1,23.5,22.9,22.3,21.7,21.1,20.5,19.9,19.3,18.7,18.1,17.6,17
 Panama,PAN,People practicing open defecation (% of population),SH.STA.ODFC.ZS,7.661488124,7.477849261,7.295740633,7.114844795,6.935311228,6.757135034,6.580309642,6.404972326,6.230827896,6.058016101,5.886666925,5.715417265,5.544447501,5.373801786,5.203393427,5.033525135
 Panama,PAN,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,96.99058624,97.1519151,97.31324396,97.47457281,97.57358523,97.53497031,97.49569605,97.45576248,97.41516957,97.37391735,97.33200579,97.28943491,97.24620471,97.20231518,97.20635873,97.51067739
-Panama,PAN,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,76,,,,,80,,,,,,,,,,82
-Panama,PAN,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,1.2342,1.2439,1.3346,1.3403,1.3216,1.3477,1.3489,1.3032,1.3808,1.3092,1.4058,1.4976,1.5979,1.5821,,1.5759
+Panama,PAN,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,,,,,,80,,,,,,,,,,82
+Panama,PAN,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,,1.2439,1.3346,1.3403,1.3216,1.3477,1.3489,1.3032,1.3808,1.3092,1.4058,1.4976,1.5979,1.5821,,1.5759
 Panama,PAN,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,14.38301431,,,,,14.11531568,,,,,14.13891846,14.29603899,13.97236651,13.3978705,12.92161513,12.49074394
 Panama,PAN,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,27.67,24.04,28.71,27.45,28.21,22.77,22.09,22.79,23.36,20.37,20.65,19.73,21.25,20.71,19.78,21.9
 Panama,PAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,105.6680679,106.8896484,108.8378372,107.5375595,108.6108017,107.2101974,107.4427567,108.5340805,107.4014435,105.7311096,105.110611,104.5326996,103.2911835,102.2057724,99.13536835,96.07713318
@@ -1138,8 +1138,8 @@ Poland,POL,"Labor force participation rate, total (% of total population ages 15
 Poland,POL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.74878049,74.2,74.49756098,74.59756098,74.84634146,74.99512195,75.14390244,75.24390244,75.54390244,75.69512195,76.24634146,76.69512195,76.74634146,77,77.60243902,77.45121951
 Poland,POL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,9.3,8.8,8.4,8.1,7.8,7.6,7.3,7,6.7,6.3,6,5.7,5.4,5.2,5,4.9
 Poland,POL,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Poland,POL,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,99.13023,,,,,99.30725806,99.30725806,99.30725806,99.30725806,99.30725806,99.37096774,99.43467742,99.4983871,99.56209677,99.62580645,99.68951613
-Poland,POL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,89.4343,,,,,91.02206458,91.39845038,91.77643666,92.15604761,92.53753539,93.09649775,93.66072113,94.22904024,94.80304559,95.38260564,95.96788024
+Poland,POL,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,,,,,,99.30725806,99.30725806,99.30725806,99.30725806,99.30725806,99.37096774,99.43467742,99.4983871,99.56209677,99.62580645,99.68951613
+Poland,POL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,,,,,,91.02206458,91.39845038,91.77643666,92.15604761,92.53753539,93.09649775,93.66072113,94.22904024,94.80304559,95.38260564,95.96788024
 Poland,POL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2.2053,2.2504,2.2882,2.4188,2.2771,2.1267,2.1671,2.1776,2.1482,2.1593,2.1707,2.1997,2.2242,2.234,2.302,2.3252
 Poland,POL,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,25.82218582,,,,,26.15121823,,,,,27.17650018,26.37250707,24.26397739,22.9287237,22.21089179,22.69131805
 Poland,POL,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.93,7.29,7.49,7.29,7.31,7.22,7.18,7.28,8.01,8.84,9.49,10.44,10.91,11.41,11.58,11.87
@@ -1183,7 +1183,7 @@ Romania,ROU,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,144,151
 Romania,ROU,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,69.61,68.2,63.97,63.26,63.66,62.05,63.41,62.78,62.62,62.79,64.66,63.89,64.68,64.83,65.55,65.91
 Romania,ROU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.16341463,71.16097561,71.0097561,71.3097561,71.56097561,71.91219512,72.16341463,72.56585366,72.56585366,73.3097561,73.45853659,74.4097561,74.41219512,75.06341463,74.9097561,74.91219512
 Romania,ROU,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,21.6,20.5,20.1,20,19.4,18.1,16.6,15.2,14,13.1,12.4,11.8,11.2,10.6,9.9,9.2
-Romania,ROU,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Romania,ROU,People practicing open defecation (% of population),SH.STA.ODFC.ZS,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Romania,ROU,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Romania,ROU,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,81.65202131,81.60899855,81.58862135,81.62598259,81.66305894,81.70013703,81.73721381,81.77429065,81.81136791,81.84844555,81.88552486,81.92260133,81.92656435,81.91609222,81.90561826,81.90193907
 Romania,ROU,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,1.9531,1.9816,2.096,,2.2314,2.2126,2.2104,2.2915,2.4133,2.4414,2.4804,2.5153,2.5887,2.624,,2.45678
@@ -1213,18 +1213,18 @@ Russian Federation,RUS,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,6.9685,6.9
 Russian Federation,RUS,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.0540371,,,,,18.99521728,,,,,19.48031098,19.19151083,18.30433841,17.79507055,16.58216295,17.0191912
 Russian Federation,RUS,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.5,3.62,3.46,3.28,3.55,3.61,3.48,3.67,3.31,3.6,3.34,3.23,3.24,3.61,3.3,3.2
 Russian Federation,RUS,"School enrollment, primary (% gross)",SE.PRM.ENRR,102.7909317,106.0829468,113.9455414,121.0511475,,95.22628784,94.99945831,95.68132782,97.58451843,99.36152649,,101.0762329,101.0206299,99.76957703,97.69432068,99.07290649
-Russian Federation,RUS,"School enrollment, secondary (% gross)",SE.SEC.ENRR,90.24342,,,91.5080719,85.31642914,82.91107941,82.70760345,82.94989777,83.12724304,84.7716217,,91.82772827,95.60720062,97.68347931,98.81610107,102.1796188
+Russian Federation,RUS,"School enrollment, secondary (% gross)",SE.SEC.ENRR,,,,91.5080719,85.31642914,82.91107941,82.70760345,82.94989777,83.12724304,84.7716217,,91.82772827,95.60720062,97.68347931,98.81610107,102.1796188
 Russian Federation,RUS,"School enrollment, tertiary (% gross)",SE.TER.ENRR,55.79957962,61.56679916,66.85832214,70.6703186,70.59243774,72.56594086,72.79666901,74.02127075,74.89585876,75.3270874,,76.18489075,75.90708923,77.85031891,78.46309662,79.93813324
 Russian Federation,RUS,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,10.36800003,8.597999573,7.604000092,7.948999882,7.515999794,6.93200016,6.690000057,5.639999866,5.943999767,7.668000221,6.836999893,6.090000153,5.071000099,5.140999794,4.821000099,5.30700016
 Russian Federation,RUS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.57999992,8.979999542,7.880000114,8.210000038,7.760000229,7.119999886,7.059999943,6,6.210000038,8.300000191,7.369999886,6.539999962,5.440000057,5.460000038,5.159999847,5.570000172
 Russian Federation,RUS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.35,73.346,73.341,73.373,73.418,73.463,73.508,73.553,73.598,73.642,73.687,73.732,73.791,73.863,73.95,74.05
 Rwanda,RWA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,0.2,0.2,0.2,0.2,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.4,0.5,0.6
 Rwanda,RWA,Access to electricity (% of population),EG.ELC.ACCS.ZS,6.199999809,4.57231617,5.93285799,7.288164616,8.640584946,4.800000191,11.34622574,12.70450306,6,15.44546127,9.699999809,10.80000019,17.5,15.19999981,19.79999924,22.79999924
-Rwanda,RWA,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.2342434,,,0.536980391,1.689702749,0.668072403,3.982355833,5.128610134,1.497532487,7.441511631,2.605605364,1.13419199,7.279980659,5.752467632,9.17429924,12.53564453
+Rwanda,RWA,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,,,,0.536980391,1.689702749,0.668072403,3.982355833,5.128610134,1.497532487,7.441511631,2.605605364,1.13419199,7.279980659,5.752467632,9.17429924,12.53564453
 Rwanda,RWA,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,38.90000153,35.85743332,38.16359329,40.47537231,42.79971313,25.10000038,47.51176834,49.90073776,28.10000038,54.71823502,44.5,58.20000076,67.59999847,61.5,71.80000305,72.90000153
 Rwanda,RWA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,26.7,,,,,28.4,,,52.1,,69,69,,,,90.7
 Rwanda,RWA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,8.37091824,8.484519453,13.1920781,2.20240272,7.447679676,9.377899425,9.227047579,7.633311061,11.16124324,6.248259929,7.334656108,7.958385719,8.641520625,4.719836864,6.167167721,8.856861325
-Rwanda,RWA,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,1.6,,,,1.7,3.7,1.6,1.6,,,,,,,,4.5
+Rwanda,RWA,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,,,,,1.7,3.7,1.6,1.6,,,,,,,,4.5
 Rwanda,RWA,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,96,83,89,100,93,102,112,106,101,95,83,80,72,66,65,61
 Rwanda,RWA,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,87.32,86.98,86.65,86.33,86.04,85.79,85.61,85.46,85.34,85.22,85.08,84.95,84.79,84.61,84.4,84.35
 Rwanda,RWA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,47.129,49.021,51.032,53.368,55.491,57.316,58.714,59.965,61.134,61.958,62.54,63.261,64.009,64.426,64.94,65.298
@@ -1232,7 +1232,7 @@ Rwanda,RWA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,185.2,1
 Rwanda,RWA,People practicing open defecation (% of population),SH.STA.ODFC.ZS,4.31472001,4.164802178,4.015945782,3.892151211,3.771911455,3.651682079,3.531439592,3.411232459,3.291035917,3.170829815,3.050655405,2.930491481,2.810321892,2.69018013,2.569838352,2.449347557
 Rwanda,RWA,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,70.94559736,71.55795954,72.17287798,72.79035267,73.41038363,74.03297085,74.65811433,75.28581407,75.91607007,76.54888233,77.18425085,77.82217564,78.46265668,79.10569399,79.75128755,80.39943738
 Rwanda,RWA,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,3.990014319,4.533549863,5.109864107,5.49019523,5.845110431,6.206240736,6.573878433,6.947450053,7.327238665,7.713561335,8.105793946,8.504244624,8.909256899,9.32015398,9.743037899,10.1787019
-Rwanda,RWA,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,0.015,,0.019,,0.049,0.024,,,0.052,0.055,0.055,0.0129,,0.1021,0.0909,0.1129
+Rwanda,RWA,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,,,0.019,,0.049,0.024,,,0.052,0.055,0.055,0.0129,,0.1021,0.0909,0.1129
 Rwanda,RWA,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,43.48168912,,,,,42.69118425,,,,,41.44091192,42.68095937,44.56089624,44.41158508,42.21148744,42.61448971
 Rwanda,RWA,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,86.78,86.89,87.13,87.3,87.55,89.25,90.59,90.31,90.63,90.54,90.66,89.64,88.78,88.47,87.95,86.31
 Rwanda,RWA,"School enrollment, primary (% gross)",SE.PRM.ENRR,112.1344986,109.921257,113.0497437,120.3233871,128.6686554,133.6131134,142.5975342,148.463501,147.7461395,149.2713623,148.2302856,147.7075806,147.5659637,144.3056641,140.3875275,139.6243591
@@ -1276,7 +1276,7 @@ Slovenia,SVN,"Labor force participation rate, total (% of total population ages 
 Slovenia,SVN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.41219512,75.75853659,76.00731707,76.85853659,77.20731707,77.61219512,78.08658537,78.56097561,78.76585366,78.97073171,79.42195122,79.97073171,80.12439024,80.32195122,81.07804878,80.77560976
 Slovenia,SVN,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,5.5,5.2,4.9,4.7,4.4,4.2,4,3.8,3.6,3.4,3.2,3.1,2.9,2.8,2.7,2.6
 Slovenia,SVN,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Slovenia,SVN,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,97,,,,,98,,,,,,,,,,99
+Slovenia,SVN,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,,,,,,98,,,,,,,,,,99
 Slovenia,SVN,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,80.16590208,80.16590208,80.16590208,81.37820418,82.59050628,83.80280837,85.01511047,86.22741256,87.43971466,88.65201676,89.86431885,91.07662095,92.28892304,93.50122514,94.71352724,95.92582933
 Slovenia,SVN,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2.1527,2.1761,2.2342,2.2561,2.3058,2.3519,2.3672,2.3925,2.3994,2.4167,2.4367,2.4965,2.5406,2.6252,2.7628,2.8148
 Slovenia,SVN,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.13404698,,,,,19.42284115,,,,,18.6816561,19.5141379,17.67007906,17.57137864,16.63270074,17.12815192
@@ -1291,7 +1291,7 @@ Spain,ESP,Access to clean fuels and technologies for cooking (% of population),E
 Spain,ESP,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Spain,ESP,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Spain,ESP,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
-Spain,ESP,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,99.1,,,,,99.4,,,,,,,,,,99.9
+Spain,ESP,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,,,,,,99.4,,,,,,,,,,99.9
 Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.245943824,3.933002765,2.730948329,2.981936316,3.122733517,3.652084192,4.102685741,3.604738462,0.887067046,-3.763107042,0.162919518,-0.814384777,-2.958922132,-1.403341868,1.395775367,3.838518877
 Spain,ESP,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,3.65,3.58,3.53,3.44,3.4,3.34,3.29,3.25,3.2,3.16,3.11,3.05,2.99,2.96,2.97,2.98
 Spain,ESP,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,23,19,20,27,16,19,20,19,19,18,17,16,14,13,12,10
@@ -1323,13 +1323,13 @@ St. Lucia,LCA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.768,71
 St. Lucia,LCA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,18.4,18.3,18.2,18.3,18.3,18.4,18.6,18.8,19,19.3,19.7,20,20.4,20.9,21.4,21.9
 St. Lucia,LCA,People practicing open defecation (% of population),SH.STA.ODFC.ZS,7.531123102,7.523157153,7.49288223,7.463427654,7.335258045,7.21875257,7.113329208,7.018523758,6.933826052,6.858743823,6.791610992,6.721216245,6.65082199,6.580155559,6.509077257,6.437363318
 St. Lucia,LCA,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,94.47628082,94.47628082,94.47628082,94.64687716,94.81747349,94.98806983,95.15866616,95.3292625,95.49985884,95.67045517,95.84105151,96.01164784,96.18224418,96.35284051,96.52343685,96.69403318
-St. Lucia,LCA,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,80,,,,,83,,,,,,,,,,89
-St. Lucia,LCA,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,0.748334,0.819,0.4391,0.4673,0.4203,0.508,,0.185,0.1588,0.1045,1.6485,1.8063,2.1392,2.4394,1.8564,0.8
+St. Lucia,LCA,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,,,,,,83,,,,,,,,,,89
+St. Lucia,LCA,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,,0.819,0.4391,0.4673,0.4203,0.508,,0.185,0.1588,0.1045,1.6485,1.8063,2.1392,2.4394,1.8564,0.8
 St. Lucia,LCA,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,27.09613315,,,,,26.98484975,,,,,27.63597227,28.07865593,26.36748478,25.44480168,24.23630259,24.28323968
 St. Lucia,LCA,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.05,22.23,21.73,20.02,18.43,18.44,16.94,16.26,15.53,15.08,13.22,12.93,12.39,12.1,11.72,11.52
 St. Lucia,LCA,"School enrollment, primary (% gross)",SE.PRM.ENRR,103.4909363,104.6619568,103.5779495,103.4391327,101.9952927,102.9163895,107.3003082,100.5615234,,,,,92.80687714,93.67456055,94.45508575,101.1423798
 St. Lucia,LCA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,73.9931488,74.26106262,73.72714996,74.71952057,73.84597778,77.89299011,82.44165039,87.96607971,93.28363037,94.59269714,93.82028961,92.79428864,89.47303772,87.78887939,87.53952026,88.51898956
-St. Lucia,LCA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,12.53533,,,,13.89818001,13.11641979,9.559599876,8.646499634,15.88191986,17.54077911,12.39398956,16.18901062,10.01904964,13.5559597,16.4372406,16.3260498
+St. Lucia,LCA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,,,,,13.89818001,13.11641979,9.559599876,8.646499634,15.88191986,17.54077911,12.39398956,16.18901062,10.01904964,13.5559597,16.4372406,16.3260498
 St. Lucia,LCA,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,21.2840004,22.81500053,24.15600014,28.36100006,25.18899918,23.10400009,20.34300041,18.67399979,14.72399998,16.48399925,18.3579998,20.24399948,21.20400047,23.95400047,23.10499954,22.44099998
 St. Lucia,LCA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,16.48999977,18.52499962,20.38999939,22.18000031,20.96999931,18.70000076,16,14,12.72000027,15.36999989,17.1079998,18.86000061,19.05999947,22.20999908,21.29599953,20.56200027
 St. Lucia,LCA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,27.774,27.473,26.329,25.216,24.133,23.085,22.068,21.084,20.131,19.213,18.45,18.45,18.45,18.461,18.482,18.515
@@ -1337,7 +1337,7 @@ Sweden,SWE,Access to clean fuels and technologies for cooking (% of population),
 Sweden,SWE,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Sweden,SWE,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Sweden,SWE,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
-Sweden,SWE,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,100,,,,,100,,,,,,,,,,100
+Sweden,SWE,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,,,,,,100,,,,,,,,,,100
 Sweden,SWE,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.766348871,1.449498618,2.196921062,2.30981059,4.336856154,2.85880324,4.662773552,3.439221776,-0.450559257,-4.339790575,5.952107008,3.195333235,-0.588304569,1.187775716,2.657798275,4.489281588
 Sweden,SWE,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,3.58,3.27,3.13,3.05,3.01,2.93,2.89,2.86,2.81,2.76,2.73,2.7,2.66,2.59,2.54,2.44
 Sweden,SWE,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,5.4,5.1,4.8,5.1,5.5,6.8,6.2,5.8,6.4,7.1,7.5,6.5,7.1,7.3,7.5,9.1
@@ -1360,7 +1360,7 @@ Switzerland,CHE,Access to clean fuels and technologies for cooking (% of populat
 Switzerland,CHE,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Switzerland,CHE,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Switzerland,CHE,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
-Switzerland,CHE,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,100,,,,,100,100,,,,,,,,,100
+Switzerland,CHE,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,,,,,,100,100,,,,,,,,,100
 Switzerland,CHE,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,3.958719719,1.575661967,-0.073217084,-0.032398477,2.70170921,2.749698985,4.07362845,3.916375818,2.807983632,-2.297374631,3.243397336,1.813108192,1.179253833,1.792144057,2.349881275,1.644627687
 Switzerland,CHE,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.29,6.04,5.95,5.82,5.67,5.54,5.39,5.36,5.21,5.1,5.19,5.05,4.97,4.85,4.73,4.73
 Switzerland,CHE,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,9.2,8.7,9.4,9,8.6,8,7.3,6.4,7,7.5,7.5,7.6,6,6.6,5.9,7.4
@@ -1429,7 +1429,7 @@ Turkiye,TUR,Access to clean fuels and technologies for cooking (% of population)
 Turkiye,TUR,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,99.99799347,99.98703003,99.96072388,99.923172,99.88085938,99.85087585,100,100,100,100,100,100
 Turkiye,TUR,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 Turkiye,TUR,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,99.44896698,99.45655823,99.48849487,99.54120636,99.60899353,99.68617249,100,100,100,100,100,100
-Turkiye,TUR,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,82,,,83,83,98,,89.3,91.3,95,,,,97.4,97.4,99
+Turkiye,TUR,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,,,,83,83,98,,89.3,91.3,95,,,,97.4,97.4,99
 Turkiye,TUR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,6.933239705,-5.750006555,6.447722047,5.763206067,9.795936389,8.992304936,6.947988086,5.043507932,0.815024573,-4.823153953,8.427104323,11.20011058,4.788492711,8.485816997,4.939715161,6.084486904
 Turkiye,TUR,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,2.1,2.16,2.49,2.48,2.47,2.5,2.52,2.54,2.58,2.62,2.74,2.62,2.66,2.65,2.68,2.68
 Turkiye,TUR,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,33,31,32,31,30,33,33,31,29,27,25,24,22,20,20,18
@@ -1438,13 +1438,13 @@ Turkiye,TUR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.861,72.2
 Turkiye,TUR,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,37.9,35.3,32.7,30.4,28.2,26.2,24.3,22.5,20.9,19.5,18.1,16.9,15.8,14.7,13.8,13
 Turkiye,TUR,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0.599862354,0.59238537,0.565239572,0.538571878,0.512365083,0.486647938,0.461380125,0.436577924,0.412214095,0.388313689,0.364849644,0.341825547,0.319216772,0.297104673,0.275441733,0.254225258
 Turkiye,TUR,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,95.99308668,96.05967324,96.12625979,96.19284635,96.25943291,96.32601947,96.39260602,96.45919258,96.52577914,96.5923657,96.65895226,96.72553881,96.79212537,96.85871193,96.92529849,96.99188504
-Turkiye,TUR,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,3.9,,,,,4.6,,,,,,,,,,6.1
+Turkiye,TUR,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,,,,,,4.6,,,,,,,,,,6.1
 Turkiye,TUR,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,1.3479,1.399,1.4114,1.4294,1.4492,1.4852,1.5195,1.5579,1.6068,1.6635,1.7068,1.716,1.7384,1.7619,1.756,1.7988
 Turkiye,TUR,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,42.69252478,,,,,41.20201574,,,,,43.82122875,40.54510881,41.92091892,42.06258311,42.59577121,45.4015556
 Turkiye,TUR,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.29,18.12,17.49,16.29,16.78,15.34,14.23,12.48,12.53,13.12,14.21,12.68,13.03,13.8,11.51,13.34
 Turkiye,TUR,"School enrollment, primary (% gross)",SE.PRM.ENRR,103.409462,105.7001419,106.6611633,103.4278336,103.2873993,103.1762619,102.6258469,102.9047165,102.5036697,100.1271591,101.2989807,101.0495605,98.63050079,107.1542816,106.3129501,103.027298
 Turkiye,TUR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,73.60044098,83.78103638,88.2937088,90.08895111,86.85767365,83.93792725,87.90325165,90.3065033,88.51843262,80.04035187,84.28302765,88.33830261,85.18469238,100.4837189,102.8709793,102.837738
-Turkiye,TUR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,25.48354,25.62334061,26.55532074,30.20878029,30.98077965,33.09503937,36.92269897,38.80710983,40.22743988,46.55458069,56.37697983,61.11635971,69.7725296,79.56095123,86.94416046,95.31429291
+Turkiye,TUR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,,25.62334061,26.55532074,30.20878029,30.98077965,33.09503937,36.92269897,38.80710983,40.22743988,46.55458069,56.37697983,61.11635971,69.7725296,79.56095123,86.94416046,95.31429291
 Turkiye,TUR,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.275000095,7.481999874,9.467000008,10.10400009,10.98799992,11.18099976,9.095999718,9.149999619,9.979999542,12.6079998,11.38199997,10.06200027,9.364999771,10.52900028,11.80799961,12.56299973
 Turkiye,TUR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.5,8.380000114,10.35999966,10.53999996,10.84000015,10.64000034,8.720000267,8.869999886,9.710000038,12.55000019,10.65999985,8.800000191,8.149999619,8.729999542,9.880000114,10.23999977
 Turkiye,TUR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.741,65.34,65.974,66.602,67.225,67.84,68.45,69.053,69.651,70.241,70.825,71.402,71.974,72.531,73.077,73.611
@@ -1452,7 +1452,7 @@ United Kingdom,GBR,Access to clean fuels and technologies for cooking (% of popu
 United Kingdom,GBR,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 United Kingdom,GBR,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 United Kingdom,GBR,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
-United Kingdom,GBR,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,100,,,,,100,,,,,,,,,,100
+United Kingdom,GBR,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,,,,,,100,,,,,,,,,,100
 United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.092653478,2.157428178,1.770765299,3.123053313,2.344971482,2.668337657,2.160405321,2.563460461,-0.154344315,-4.5104856,2.430072895,1.067610914,1.448456757,1.819863375,3.199702626,2.393103184
 United Kingdom,GBR,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.08,4.04,3.98,3.95,3.86,3.72,3.54,3.39,3.33,3.26,2.93,2.88,2.81,2.76,2.73,2.61
 United Kingdom,GBR,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,12,11,13,13,13,15,15,15,15,15,14,15,15,13,12,10
@@ -1484,13 +1484,13 @@ United States,USA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.63
 United States,USA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.4,8.3,8.2,8.1,8.1,8,7.9,7.7,7.6,7.5,7.3,7.2,7.1,7,6.9,6.8
 United States,USA,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 United States,USA,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,99.69304221,99.69304221,99.69304221,99.69304221,99.69304221,99.69304221,99.69304221,99.69304221,99.69304221,99.69304221,99.71441514,99.73578807,99.75716101,99.77853394,99.79990687,99.82127981
-United States,USA,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.589395,,,,,95.23581292,95.24582727,95.2557833,95.2656829,95.27552413,95.46778236,95.65914859,95.84939996,96.03857024,96.22654489,96.41326821
+United States,USA,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,,,,,,95.23581292,95.24582727,95.2557833,95.2656829,95.27552413,95.46778236,95.65914859,95.84939996,96.03857024,96.22654489,96.41326821
 United States,USA,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2.5942,,,,2.7147,4.2,,,,,,,,,,4.5
 United States,USA,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,9.525138004,,,,,9.609824465,,,,,9.35863641,9.740640607,9.00316337,8.734777211,8.220720319,8.063920222
 United States,USA,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.43,4.68,4.84,5.33,5.48,5.84,6.4,6.3,6.85,7.35,7.44,8.36,8.73,9.08,9.22,9.03
-United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,99.73483,,,,,100,,,,,,,,99.45543671,99.67337799,100
-United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,94.3942,,,,,95.0524826,,,,,,,,96.18649292,96.92453766,97.65254974
-United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,78.43945,,,,,80.63482666,,,,,,,,88.72641754,88.6268692,88.88941193
+United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,,,,,,101.8740234,,,,,,,,99.45543671,99.67337799,100.2999115
+United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,,,,,,95.0524826,,,,,,,,96.18649292,96.92453766,97.65254974
+United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,,,,,,80.63482666,,,,,,,,88.72641754,88.6268692,88.88941193
 United States,USA,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.09800005,4.649000168,5.606999874,5.665999889,5.400000095,5.096000195,4.625,4.495999813,5.414000034,8.059000015,8.609999657,8.461000443,7.887000084,7.068999767,6.061999798,5.177999973
 United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.99000001,4.730000019,5.78000021,5.989999771,5.53000021,5.079999924,4.619999886,4.619999886,5.78000021,9.25,9.630000114,8.949999809,8.069999695,7.369999886,6.170000076,5.28000021
 United States,USA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.057,79.234,79.409,79.583,79.757,79.928,80.099,80.269,80.438,80.606,80.772,80.944,81.119,81.299,81.483,81.671
@@ -1715,3 +1715,29 @@ United States,USA,"Literacy rate, adult total (% of people ages 15 and above)",S
 Uzbekistan,UZB,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,98.13858032,0,0,0,0,98.13858032,0,0,0,0,0,0,0,99.9958725,99.9759903,99.97576904
 Uzbekistan,UZB,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.16443634,0,0,0,0,99.16443634,0,0,0,0,0,0,0,99.99382782,99.98519135,99.99204254
 Uzbekistan,UZB,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,98.64257813,0,0,0,0,98.64257813,0,0,0,0,0,0,0,99.99485779,99.98055267,99.98383331
+Vietnam,VNM,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,31.8,35.6,39.4,42.75,45.8,48.7,51.6,53.9,56.2,58.3,59.6,,,,,
+Vietnam,VNM,Access to electricity (% of population),EG.ELC.ACCS.ZS,96.09999847,96,93.20526886,93.98171234,96.09999847,97.43000031,99,97.88999939,98.55496216,99.19999695,99.82130432,,,,,
+Vietnam,VNM,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,94.78694916,94.8011322,90.76005554,91.73643494,94.61694336,96.35902405,98.54904175,97.00138092,97.87874603,98.85342407,99.73003387,,,,,
+Vietnam,VNM,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.59999847,99.09999847,99.33853912,99.4447403,99.59999847,99.87999725,100,99.80000305,99.96396637,99.90000153,100,,,,,
+Vietnam,VNM,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,82.1,83.8,,,,,91.9,,,93.8,94.7,,,,,
+Vietnam,VNM,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,7.547247727,6.977954812,7.129504484,5.661771208,5.397897543,6.423238217,6.413177689,5.50454562,5.553500245,6.422246656,6.987166724,,,,,
+Vietnam,VNM,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,2.34,2.66,,2.9,3.1,2.91,,2.5,3.18,2.6,2.9,,,,,
+Vietnam,VNM,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,266,260,253,246,239,231,225,218,212,205,199,,,,,
+Vietnam,VNM,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,81.16,80.99,80.8,80.67,80.6,80.83,81.02,81.28,82.26,82.49,82.42,,,,,
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.271,73.319,73.436,73.411,73.498,73.513,73.692,73.704,73.775,73.855,73.876,,,,,
+Vietnam,VNM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,,,,,91.37908936,,,,,,,,,,,
+Vietnam,VNM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,,,,,95.78533173,,,,,,,,,,,
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,,,,,93.52044678,,,,,,,,,,,
+Vietnam,VNM,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,24.9,24.4,23.9,23.5,23.2,22.9,22.7,22.4,22.2,22,21.8,,,,,
+Vietnam,VNM,People practicing open defecation (% of population),SH.STA.ODFC.ZS,12.85427463,11.9065894,10.96871069,10.0409732,9.123416033,8.215439691,7.318509804,6.432776348,5.558686875,4.696202282,3.845595653,,,,,
+Vietnam,VNM,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,95.75177456,95.91100173,96.0702209,96.22943209,96.38863529,96.5478305,96.70701772,96.86619695,97.0253682,97.52238755,98.21274352,,,,,
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,,,,,,,,,,,,,,,,
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,0.6139,0.6239,0.6415,0.6648,0.6982,0.71,,0.8209,,0.783,0.7963,,,,,
+Vietnam,VNM,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,37.74959295,,,,,39.36539699,38.4869748,37.22745154,36.83590641,34.89601505,32.46644382,,,,,
+Vietnam,VNM,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,44.15,44.25,41.9,39.26,36.97,34.58,36.32,37.9,37.35,36.64,30.33,,,,,
+Vietnam,VNM,"School enrollment, primary (% gross)",SE.PRM.ENRR,97.72135162,98.12531281,99.78874207,101.6587524,102.3212509,105.7091675,107.193718,107.7544022,108.4108963,110.329628,109.8869934,,,,,
+Vietnam,VNM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,72,76,80,83,87,88,88,89,89.5,90,90,,,,,
+Vietnam,VNM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,16.15992928,16.78204918,18.48277092,19.06382942,20.23057938,22.82085991,24.94845009,25.18672943,25.19178963,30.71549988,29.07345963,,,,,
+Vietnam,VNM,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.263000011,2.122999907,1.932000041,1.794999957,1.578999996,1.074000001,0.901000023,0.930999994,1.143000007,1.108999968,1.708999991,,,,,
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2.095000029,2.086999893,2.029999971,1.927000046,1.74000001,1.110000014,1,1.029999971,1.320000052,1.25999999,1.850000024,,,,,
+Vietnam,VNM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,27.281,27.888,28.504,29.128,29.762,30.417,31.08,31.752,32.429,33.115,33.809,,,,,
